@@ -8,5 +8,3 @@
 #3 CRIAR APP.jS 
 
 #4 INICIAR NODE APP.JS 
-
-teste git
